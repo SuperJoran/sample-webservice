@@ -9,4 +9,5 @@ public class SampleWebserviceApplication {
     public static void main(String[] args) {
         SpringApplication.run(SampleWebserviceApplication.class, args);
     }
+
 }
